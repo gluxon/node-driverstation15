@@ -1,6 +1,6 @@
 {
   "name": "driverstation15",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js API for the client-side FRC Driver Station using the 2015 protocol",
   "license": "MIT",
   "author": "Brandon Cheng <gluxon@gluxon.com>",
